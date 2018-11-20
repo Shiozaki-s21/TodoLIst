@@ -1,13 +1,19 @@
-# Sample Snack app
+# Todo List
 
-Welcome to Expo!
+## OverView
+This is a Simple TodoList.
+I made it to practice React Native.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+## Function
+### Create Todo Card
+In this App, it can be create todo card like this, 
+1. To write any todo name in under bar
+2. After that, Push "+" button.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+### Change status
+When to finish some thing which written in todo card, you can change the status.
+1. To push left check box in todo card.
 
-Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+### Delete todo card
+When todo card doesn't have any value in app, it can be deleted.
+1. To push right delete button.
